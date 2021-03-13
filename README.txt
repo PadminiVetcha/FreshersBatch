@@ -1,4 +1,5 @@
 HAHA
+js assignments  ( jsass1) are also added
 Added cssass1 and cssass2
 This contains the list of assignments and their contents
 htmlass1  details about tags
